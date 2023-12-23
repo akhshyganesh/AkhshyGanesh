@@ -24,7 +24,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhshyganesh&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
 <a href="http://www.github.com/akhshyganesh">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akhshyganesh&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" alt="GitHub Commits Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akhshyganesh&bg_color=232323&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="GitHub Commits Graph" />
 </a>
 
 ### Support Me

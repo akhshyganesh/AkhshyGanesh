@@ -1,7 +1,7 @@
 
 # Hi 👋 My name is Akhshy Ganesh B
 
-## Full Stack Web Developer
+## Full Stack Developer
 
 - 🌍 I'm based in India
 - 🖥️ See my portfolio at [AkhshyGanesh](http://akhshyganesh.github.io)
